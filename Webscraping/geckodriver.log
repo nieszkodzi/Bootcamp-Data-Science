@@ -1,0 +1,320 @@
+1540733444486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.smRdYyNXd120"
+
+(firefox:9637): Gtk-WARNING **: 14:30:45.396: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9637): Gtk-WARNING **: 14:30:45.396: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540733446899	Marionette	INFO	Listening on port 43561
+1540733447016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540733450419	Marionette	INFO	Stopped listening on port 43561
+[Parent 9637, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540733947558	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BuNAXlhfaSHH"
+
+(firefox:2418): Gtk-WARNING **: 14:39:08.369: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2418): Gtk-WARNING **: 14:39:08.369: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540733949911	Marionette	INFO	Listening on port 42399
+1540733950002	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2418, Gecko_IOThread] WARNING: pipe error (65): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 2418, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540733990148	Marionette	INFO	Stopped listening on port 42399
+1540734326032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3RS8ZgdsnXNY"
+
+(firefox:2970): Gtk-WARNING **: 14:45:27.050: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2970): Gtk-WARNING **: 14:45:27.050: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540734328532	Marionette	INFO	Listening on port 45507
+1540734328563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540734331914	Marionette	INFO	Stopped listening on port 45507
+[Parent 2970, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540734632273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oEjK91MW3TMM"
+
+(firefox:3250): Gtk-WARNING **: 14:50:33.077: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3250): Gtk-WARNING **: 14:50:33.078: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540734634514	Marionette	INFO	Listening on port 40669
+1540734634600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540734921600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uikhBO89dLlu"
+
+(firefox:3499): Gtk-WARNING **: 14:55:22.394: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3499): Gtk-WARNING **: 14:55:22.394: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540734923792	Marionette	INFO	Listening on port 36243
+1540734923821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735221943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TEoEnbyPBNi2"
+
+(firefox:3749): Gtk-WARNING **: 15:00:22.732: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3749): Gtk-WARNING **: 15:00:22.732: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735224244	Marionette	INFO	Listening on port 39685
+1540735224268	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3749, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 3749, Gecko_IOThread] WARNING: pipe error (65): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735230042	Marionette	INFO	Stopped listening on port 39685
+1540735350344	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9fATEVG3RYsY"
+
+(firefox:4045): Gtk-WARNING **: 15:02:31.134: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4045): Gtk-WARNING **: 15:02:31.134: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735352518	Marionette	INFO	Listening on port 35737
+1540735352566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735413138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.C0dmiN187sFx"
+
+(firefox:4250): Gtk-WARNING **: 15:03:33.945: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4250): Gtk-WARNING **: 15:03:33.945: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735415444	Marionette	INFO	Listening on port 39173
+1540735415549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735432969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rqjc6jqeHGP9"
+
+(firefox:4450): Gtk-WARNING **: 15:03:53.811: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4450): Gtk-WARNING **: 15:03:53.811: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735435338	Marionette	INFO	Listening on port 40507
+1540735435384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735450342	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zAFw2Bvan2GJ"
+
+(firefox:4653): Gtk-WARNING **: 15:04:11.178: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4653): Gtk-WARNING **: 15:04:11.179: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735452769	Marionette	INFO	Listening on port 40159
+1540735452875	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x160011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+[Parent 4450, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735455188	Marionette	INFO	Stopped listening on port 40507
+[Parent 4250, Gecko_IOThread] WARNING: pipe error (99): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735457189	Marionette	INFO	Stopped listening on port 39173
+[Parent 4045, Gecko_IOThread] WARNING: pipe error (97): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 4045, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735458717	Marionette	INFO	Stopped listening on port 35737
+[Parent 3499, Gecko_IOThread] WARNING: pipe error (84): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735460438	Marionette	INFO	Stopped listening on port 36243
+[Parent 3250, Gecko_IOThread] WARNING: pipe error (65): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 3250, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735462040	Marionette	INFO	Stopped listening on port 40669
+[Parent 4653, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 4653, Gecko_IOThread] WARNING: pipe error (84): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735464467	Marionette	INFO	Stopped listening on port 40159
+1540735767525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZyV5j7yLN1FV"
+
+(firefox:4912): Gtk-WARNING **: 15:09:28.348: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:4912): Gtk-WARNING **: 15:09:28.348: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735769760	Marionette	INFO	Listening on port 37423
+1540735769855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735772687	Marionette	INFO	Stopped listening on port 37423
+[Parent 4912, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735920353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.22pKOaDfouZy"
+
+(firefox:5119): Gtk-WARNING **: 15:12:01.159: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5119): Gtk-WARNING **: 15:12:01.159: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735922616	Marionette	INFO	Listening on port 37081
+1540735922693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735925474	Marionette	INFO	Stopped listening on port 37081
+[Parent 5119, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735977126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aFqTR0tLXNrn"
+
+(firefox:5337): Gtk-WARNING **: 15:12:57.933: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5337): Gtk-WARNING **: 15:12:57.933: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735979305	Marionette	INFO	Listening on port 37307
+1540735979342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735982208	Marionette	INFO	Stopped listening on port 37307
+[Parent 5337, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540735991843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ABHQYmQXg2mN"
+
+(firefox:5543): Gtk-WARNING **: 15:13:12.641: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5543): Gtk-WARNING **: 15:13:12.641: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540735994043	Marionette	INFO	Listening on port 39397
+1540735994069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540735996856	Marionette	INFO	Stopped listening on port 39397
+[Parent 5543, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540736066468	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.jTYGIpNi7fpF"
+
+(firefox:5750): Gtk-WARNING **: 15:14:27.257: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5750): Gtk-WARNING **: 15:14:27.257: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540736068641	Marionette	INFO	Listening on port 46393
+1540736068686	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540736073473	Marionette	INFO	Stopped listening on port 46393
+[Parent 5750, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738131077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.oLpWMtDrHWeG"
+
+(firefox:6222): Gtk-WARNING **: 15:48:51.908: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6222): Gtk-WARNING **: 15:48:51.908: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738133409	Marionette	INFO	Listening on port 46263
+1540738133492	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6222, Gecko_IOThread] WARNING: pipe error (84): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738144304	Marionette	INFO	Stopped listening on port 46263
+1540738272419	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.almi8OWdB1ZC"
+
+(firefox:6429): Gtk-WARNING **: 15:51:13.214: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6429): Gtk-WARNING **: 15:51:13.214: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738274657	Marionette	INFO	Listening on port 45637
+1540738274741	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6429, Gecko_IOThread] WARNING: pipe error (65): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738281104	Marionette	INFO	Stopped listening on port 45637
+1540738346428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.m7nCDX8o0vU1"
+
+(firefox:6638): Gtk-WARNING **: 15:52:27.211: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6638): Gtk-WARNING **: 15:52:27.211: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738348645	Marionette	INFO	Listening on port 35925
+1540738348742	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6638, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6638, Gecko_IOThread] WARNING: pipe error (84): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738355802	Marionette	INFO	Stopped listening on port 35925
+1540738474311	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mLKG7mRq2hyN"
+
+(firefox:6847): Gtk-WARNING **: 15:54:35.102: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6847): Gtk-WARNING **: 15:54:35.102: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738476476	Marionette	INFO	Listening on port 45161
+1540738476550	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:6952): dconf-WARNING **: 15:54:38.037: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540738505996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZZePbCQu1vCX"
+
+(firefox:7049): Gtk-WARNING **: 15:55:06.779: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7049): Gtk-WARNING **: 15:55:06.779: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738508162	Marionette	INFO	Listening on port 41091
+1540738508207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540738538519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.DgyMY9C90kny"
+
+(firefox:7242): Gtk-WARNING **: 15:55:39.318: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7242): Gtk-WARNING **: 15:55:39.318: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738540786	Marionette	INFO	Listening on port 39251
+1540738540851	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7344): dconf-WARNING **: 15:55:42.442: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 7242, Gecko_IOThread] WARNING: pipe error (65): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738545704	Marionette	INFO	Stopped listening on port 39251
+1540738552557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RZh0PsOWo6G5"
+
+(firefox:7449): Gtk-WARNING **: 15:55:53.382: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7449): Gtk-WARNING **: 15:55:53.382: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738554796	Marionette	INFO	Listening on port 33861
+1540738554877	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7555): dconf-WARNING **: 15:55:56.392: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 7449, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738571046	Marionette	INFO	Stopped listening on port 33861
+1540738614167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KSiUNjVwU0lo"
+
+(firefox:7666): Gtk-WARNING **: 15:56:54.996: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7666): Gtk-WARNING **: 15:56:54.996: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738616374	Marionette	INFO	Listening on port 32843
+1540738616484	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7773): dconf-WARNING **: 15:56:58.117: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 7666, Gecko_IOThread] WARNING: pipe error (92): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 7666, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738621743	Marionette	INFO	Stopped listening on port 32843
+1540738729386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tfKdl5fLX9Nh"
+
+(firefox:7894): Gtk-WARNING **: 15:58:50.218: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7894): Gtk-WARNING **: 15:58:50.218: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738731650	Marionette	INFO	Listening on port 46171
+1540738731705	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:7998): dconf-WARNING **: 15:58:53.258: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 7894, Gecko_IOThread] WARNING: pipe error (65): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 7894, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738737078	Marionette	INFO	Stopped listening on port 46171
+1540738752660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6Ig3F3kySWt5"
+
+(firefox:8098): Gtk-WARNING **: 15:59:13.480: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8098): Gtk-WARNING **: 15:59:13.480: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738754935	Marionette	INFO	Listening on port 45785
+1540738754978	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8201): dconf-WARNING **: 15:59:16.592: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540738760483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5wJ9Jx3nsd5C"
+
+(firefox:8296): Gtk-WARNING **: 15:59:21.274: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8296): Gtk-WARNING **: 15:59:21.274: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738762751	Marionette	INFO	Listening on port 36175
+1540738762817	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8399): dconf-WARNING **: 15:59:24.348: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 8296, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738767457	Marionette	INFO	Stopped listening on port 36175
+[Parent 8098, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 8098, Gecko_IOThread] WARNING: pipe error (86): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738770409	Marionette	INFO	Stopped listening on port 45785
+1540738771796	Marionette	INFO	Stopped listening on port 41091
+[Parent 6847, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 6847, Gecko_IOThread] WARNING: pipe error (95): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540738775569	Marionette	INFO	Stopped listening on port 45161
+1540738873413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yvIjV9us06z5"
+
+(firefox:8524): Gtk-WARNING **: 16:01:14.222: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8524): Gtk-WARNING **: 16:01:14.222: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738875556	Marionette	INFO	Listening on port 42585
+1540738875649	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8626): dconf-WARNING **: 16:01:17.176: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540738939488	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zt7V4RlftVXP"
+
+(firefox:8732): Gtk-WARNING **: 16:02:20.275: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8732): Gtk-WARNING **: 16:02:20.275: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540738941703	Marionette	INFO	Listening on port 46185
+1540738941801	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:8836): dconf-WARNING **: 16:02:23.799: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540738998634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p8FT3nW02pOf"
+
+(firefox:8943): Gtk-WARNING **: 16:03:19.408: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:8943): Gtk-WARNING **: 16:03:19.408: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540739000812	Marionette	INFO	Listening on port 40145
+1540739000852	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9047): dconf-WARNING **: 16:03:22.772: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540739037843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gJKfXEWx5eMJ"
+
+(firefox:9148): Gtk-WARNING **: 16:03:58.626: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9148): Gtk-WARNING **: 16:03:58.626: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540739040070	Marionette	INFO	Listening on port 33969
+1540739040164	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9252): dconf-WARNING **: 16:04:01.655: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+1540739438117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TnAmuiPOGDad"
+
+(firefox:9715): Gtk-WARNING **: 16:10:39.497: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:9715): Gtk-WARNING **: 16:10:39.498: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540739441041	Marionette	INFO	Listening on port 40013
+1540739441144	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:9843): dconf-WARNING **: 16:10:42.710: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Brak dostępu
+[Parent 9715, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9715, Gecko_IOThread] WARNING: pipe error (84): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540741622474	Marionette	INFO	Stopped listening on port 40013
+[Parent 9148, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 9148, Gecko_IOThread] WARNING: pipe error (86): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540741626062	Marionette	INFO	Stopped listening on port 33969
+[Parent 8943, Gecko_IOThread] WARNING: pipe error (64): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540741629098	Marionette	INFO	Stopped listening on port 40145
+[Parent 8732, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 8732, Gecko_IOThread] WARNING: pipe error (84): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540741632058	Marionette	INFO	Stopped listening on port 46185
+[Parent 8524, Gecko_IOThread] WARNING: pipe error (78): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 8524, Gecko_IOThread] WARNING: pipe error (84): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+[Parent 8524, Gecko_IOThread] WARNING: pipe error (111): Połączenie zerwane przez drugą stronę: file /build/firefox-4VfQCB/firefox-63.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 356
+1540742545272	Marionette	INFO	Stopped listening on port 42585

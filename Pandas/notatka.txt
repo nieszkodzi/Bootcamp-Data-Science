@@ -1,0 +1,5 @@
+Polecam najpierw przeczytać wykład.
+
+Na zajęciach będziemy robić zadania 2.10 i 2.11. (w tej kolejności)
+
+W zadaniu 2.10 najpierw trzeba utworzyć małą bazę danych w pliku obok. Ten kod jest już zamieszczony i jest rozwiązane przykładowo zadanie 1.
